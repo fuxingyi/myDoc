@@ -9,12 +9,13 @@
   * [UML建模](/softEngineering/UML_Modeling.md)
   * [面向对象的设计原则](/softEngineering/Object-OrientedPrinciples.md)
 
-* Getting started
+* Java
 
-  * [Quick start](/guide/guide01.md)
-  * [Writing more pages](more-pages.md)
-	  * [Custom navbar](custom-navbar.md)
-		* [Cover page](cover.md)
+  * [下载JAVA](/Java/下载JAVA.md)
+  * [Java动态代理](/Java/Java动态代理.md)
+  * [我对Volatile的理解](/Java/我对Volatile的理解.md)
+  * [CAS](/Java/CAS.md)
+  * [优雅地完成初始化——CountDownLatch](/Java/优雅地完成初始化——CountDownLatch.md)
 
 * Configuration
   * [Configuration](configuration.md)
