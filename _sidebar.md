@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Guide](guide.md)
 
 * 软件工程
   * [引篇](/softEngineering/guide.md)
@@ -16,10 +15,14 @@
   * [我对Volatile的理解](/Java/我对Volatile的理解.md)
   * [CAS](/Java/CAS.md)
   * [优雅地完成初始化——CountDownLatch](/Java/优雅地完成初始化——CountDownLatch.md)
+  * [Enum](/Java/Java_enum.md)
 
-* Configuration
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [Using plugins](plugins.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
+* Jvm
+  * [Java发展史](/jvm/Java发展史.md)
+  * [垃圾回收——概述](/jvm/垃圾回收——概述.md)
+  * [内存泄漏与内存溢出](/jvm/内存泄漏与内存溢出.md)
+* 其他
+  * [Redis常见问题](/others/Redis常见问题.md)
+  * [backbone.js](/others/backbone.js.md)
+  
+  
